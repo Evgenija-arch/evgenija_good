@@ -1,7 +1,7 @@
 ## Hello world
 # [evgenija_good](https://github.com/evgenija_good/evgenija_good/blob/main/assets/video.gif)
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer+(manual))](https://git.io/typing-svg)
-### About me :sunglasses:
+### About me 😘:
 - Прочитала лучшие книги про тестирование; :fire:
 - В тестировании с 2023 года;
 - Актуализировала 350+ тест-кейсов;
