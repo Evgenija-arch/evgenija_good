@@ -16,5 +16,6 @@
 
 # [![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)](https://www.postman.com)
 # [![Swagger](https://img.shields.io/badge/-Swagger-000010?style=for-the-badge&logo=Swagger)](https://www.Swagger.com)
+# [![Devtools](https://img.shields.io/badge/-Devtools-000010?style=for-the-badge&logo=Devtools)](https://www.Devtools.com)
 
 # ![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
